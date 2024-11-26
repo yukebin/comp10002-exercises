@@ -1,0 +1,37 @@
+/* Exercise 2.06: Possible printf printouts
+ * Kevin Yu, 2023
+ */
+
+n#=#123,#x#=#123.4567,#m#=#"hello,#hello###"
+
+Yes, can
+
+
+n#=#1234,#x#=#1234.567,#m#=#"hello##########"
+
+Cannot, since there are only three digits showing for x
+
+
+n#=#-123,#x#=#-1234.5670,#m#=#"hello##########"
+
+Yes, can
+
+
+n#=#-123,#x#=#-1234.5670,#m#=#"##########hello"
+
+Yes, can if the string m is already 15 characters long, and has the value "##########hello"
+
+
+n#=###1,#x#=####3.1472,#m#=#"hello,#hello,#hello"
+
+Cannot, since x has been written in 9 characters without needing to be
+
+
+n#=#1,#x#=#3.1472,#m#=#"##########hello"
+
+Cannot, since n is written in only 1 digit, and x has too few digits as well
+
+
+n#=###1,#x#=####3.1472,#m#=#"hello"
+
+Cannot, x has too many character positions (9) and m has too few character positions.

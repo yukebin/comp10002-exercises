@@ -1,0 +1,11 @@
+/* Exercise 2.02: Trace a program
+ * Kevin Yu, 2023
+ */
+
+a = 6
+b = 18
+c = 16
+d = 6
+e = 15
+f = 10
+g = 3
