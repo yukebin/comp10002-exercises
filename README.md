@@ -1,8 +1,8 @@
 # Suggested Solutions: Programming, Problem Solving, and Abstraction with C
 
-This repository contains my suggested solution for the textbook, "[[https://people.eng.unimelb.edu.au/ammoffat/ppsaa/ | Programming, Problem Solving, and Abstraction with C]]", Pearson Custom Books, Sydney, Australia, 2002; revised edition 2012, ISBN 9781486010974.
+This repository contains my suggested solution for the textbook, "[**Programming, Problem Solving, and Abstraction with C**](https://people.eng.unimelb.edu.au/ammoffat/ppsaa/)", Pearson Custom Books, Sydney, Australia, 2002; revised edition 2012, ISBN 9781486010974.
 
-This textbook is written by [[https://people.eng.unimelb.edu.au/ammoffat/|Alistair Moffat]] for the subject *Foundations of Algorithms (COMP10002)* at the University of Melbourne.
+This textbook is written by [Alistair Moffat](https://people.eng.unimelb.edu.au/ammoffat/) for the subject *Foundations of Algorithms (COMP10002)* at the University of Melbourne.
 
 ## Disclaimer 
 
