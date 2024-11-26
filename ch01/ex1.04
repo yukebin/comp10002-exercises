@@ -1,0 +1,13 @@
+/* Exercise 1.04: Value of the Data
+ * Kevin Yu, 2023
+ */
+
+Given:
+- Hourly wage: $18/hour
+- Hours worked per day: 3 hours
+- Days worked per week: 5 days
+
+With 52 weeks/year:
+Earnings per year = 18*3*5*52 = 14,040
+
+Thus, value of the data will be $14,040 per year and $42,120 over three years.
