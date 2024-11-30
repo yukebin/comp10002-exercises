@@ -25,7 +25,7 @@ n and z matches as you expect, c will match 4 as that is the first character
 after the space(s).
 
 
-    12 4.6 Z
+	12 4.6 Z
 num = 3, n = 12, z = 4.600000, c = Z
 
 %d automatically ignores the leading spaces, and matches as you expect.
